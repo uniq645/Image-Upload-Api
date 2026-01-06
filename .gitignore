@@ -1,0 +1,19 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Environment variable
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Others
+GEMINI.md
+.geminiignore
+
+
+# Environment-specific
+docker-compose.override.yml
